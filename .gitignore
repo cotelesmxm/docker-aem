@@ -2,3 +2,4 @@
 /install/aem-packages/*
 /node_modules
 /project/aem-dre/branches/releases/1.0/*
+!**/.keep
